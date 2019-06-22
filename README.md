@@ -6,7 +6,7 @@
 1. [Miscellaneous Symbols](#ms)
 1. [Special Cases](#sc)
 
-## Operation Symbols<a name="os"/>
+## Operation Symbols<a name="os"></a>
 
 | Type   | TeX alt            | See   |
 | ------ | ------------------ | ----- |
@@ -37,47 +37,47 @@
 | uu     | cup                | ∪     |
 | uuu    | bigcup             | **⋃** |
 
-## Miscellaneous Symbols<a name="ms"/>
+## Miscellaneous Symbols<a name="ms"></a>
 
-| Type       | TeX alt      | See                                   |
-| ---------- | ------------ | ------------------------------------- |
+| Type       | TeX alt    | See                                   |
+| ---------- | ---------- | ------------------------------------- |
 | 2/3        | frac{2}{3} | <sup>2</sup>/<sub>3</sub>             |
-| 2^3        |              | 2<sup>3</sup>                         |
-| sqrt(x)    |              | √x                                    |
-| root(3)(x) |              | <sup>3</sup>√x                        |
-| int        |              | ∫                                     |
-| oint       |              | ∮                                     |
-| del        | partial      | ∂                                     |
-| grad       | nabla        | ∇                                     |
-| +-         | pm           | ±                                     |
-| O/         | emptyset     | ∅                                     |
-| oo         | infinity     | ∞                                     |
-| aleph      |              | ℵ                                     |
-| :.         | therefore    | ∴                                     |
-| :'         | because      | ∵                                     |
-| \|...\|    | \|ldots\|    | \|...\|                               |
-| \|cdots\|  |              | \|⋯\|                                 |
-| vdots      |              | ⋮                                     |
-| ddots      |              | ⋱                                     |
-| \|\\\|     |              | \|\|                                  |
-| \|quad\|   |              | \| \|                                 |
-| /_         | angle        | ∠                                     |
-| frown      |              | ⌢                                     |
-| /_\\       | triangle     | △                                     |
-| diamond    |              | <div style="font-size: 40px;">⋄</div> |
-| square     |              | □                                     |
-| \|__       | lfloor       | ⌊                                     |
-| __\|       | rfloor       | ⌋                                     |
-| \|~        | lceiling     | ⌈                                     |
-| ~\|        | rceiling     | ⌉                                     |
-| NN         |              | N                                     |
-| ZZ         |              | Z                                     |
-| QQ         |              | Q                                     |
-| RR         |              | R                                     |
-| CC         |              | C                                     |
-| "hi"       | text(hi)     | hi                                    |
+| 2^3        |            | 2<sup>3</sup>                         |
+| sqrt(x)    |            | √x                                    |
+| root(3)(x) |            | <sup>3</sup>√x                        |
+| int        |            | ∫                                     |
+| oint       |            | ∮                                     |
+| del        | partial    | ∂                                     |
+| grad       | nabla      | ∇                                     |
+| +-         | pm         | ±                                     |
+| O/         | emptyset   | ∅                                     |
+| oo         | infinity   | ∞                                     |
+| aleph      |            | ℵ                                     |
+| :.         | therefore  | ∴                                     |
+| :'         | because    | ∵                                     |
+| \|...\|    | \|ldots\|  | \|...\|                               |
+| \|cdots\|  |            | \|⋯\|                                 |
+| vdots      |            | ⋮                                     |
+| ddots      |            | ⋱                                     |
+| \|\\\|     |            | \|\|                                  |
+| \|quad\|   |            | \| \|                                 |
+| /_         | angle      | ∠                                     |
+| frown      |            | ⌢                                     |
+| /_\\       | triangle   | △                                     |
+| diamond    |            | <div style="font-size: 40px;">⋄</div> |
+| square     |            | □                                     |
+| \|__       | lfloor     | ⌊                                     |
+| __\|       | rfloor     | ⌋                                     |
+| \|~        | lceiling   | ⌈                                     |
+| ~\|        | rceiling   | ⌉                                     |
+| NN         |            | N                                     |
+| ZZ         |            | Z                                     |
+| QQ         |            | Q                                     |
+| RR         |            | R                                     |
+| CC         |            | C                                     |
+| "hi"       | text(hi)   | hi                                    |
 
-## Special Cases<a name="sc"/>
+## Special Cases<a name="sc"></a>
 
 ### Matrices
 
